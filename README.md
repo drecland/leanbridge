@@ -3,7 +3,7 @@ English:
 
 **LeanBridge** is a Python library designed to serve as "Semantic Middleware" between mathematical intentions (often expressed mentally or in LaTeX) and the formal language [Lean 4](https://leanprover.github.io/).
 
-Its goal is to enable mathematical definitions that are **"Moldable"** (modifiable like Python objects), **Tolerant** (aggressive type inference), and **Agnostic** (independent of exact Lean syntax).
+Its goal is to enable mathematical definitions that are **"Modifiable"** (modifiable like Python objects), **Tolerant** (aggressive type inference), and **Agnostic** (independent of exact Lean syntax).
 
 ## Installation
 
@@ -58,7 +58,7 @@ French:
 
 **LeanBridge** est une bibliothèque Python conçue pour servir de "Middleware Sémantique" entre des intentions mathématiques (souvent exprimées mentalement ou en LaTeX) et le langage formel [Lean 4](https://leanprover.github.io/).
 
-Son objectif est de permettre des définitions mathématiques qui sont **"Moldable"** (modifiables comme des objets Python), **Tolérantes** (inférence de type agressive) et **Agnostiques** (indépendantes de la syntaxe Lean exacte).
+Son objectif est de permettre des définitions mathématiques qui sont **"Modelable"** (modifiables comme des objets Python), **Tolérantes** (inférence de type agressive) et **Agnostiques** (indépendantes de la syntaxe Lean exacte).
 
 ## Installation
 
