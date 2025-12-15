@@ -25,13 +25,13 @@ from leanbridge import LeanBridgeInterpreter
 # 1. Initialiser
 bridge = LeanBridgeInterpreter()
 
-# 2. Définir un espace de travail (Namespace)
+# 2. Define Namespace:
 with bridge.Namespace("Tutoriel"):
     
-    # 3. Définir une structure
+    # 3. Define Structure :
     bridge.define_structure("Vecteur2D", {"x": "Int", "y": "Int"})
     
-    # 4. Compiler
+    # 4. Compile
     print(bridge.process())
 ```
 **Generated Lean output:**
