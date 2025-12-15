@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "leanbridge"
+version = "0.2.0"
+description = "Middleware sémantique Python vers Lean 4."
+readme = "README.md"
+authors = [
+    {name = "Antigravity Team", email = "antigravity@deepmind.com"},
+]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Mathematics",
+]
+requires-python = ">=3.9"
+dependencies = [
+    "pyyaml>=6.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/example/leanbridge"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["leanbridge*"]
+namespaces = false

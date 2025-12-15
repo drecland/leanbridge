@@ -1,0 +1,4 @@
+mapping:
+  # Exemples de surcharge
+  "norme": "NormedSpace.norm"
+  "derivee": "deriv"
