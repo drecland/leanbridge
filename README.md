@@ -12,7 +12,7 @@ pip install leanbridge
 ```
 or for development (from source):
 ```bash
-git clone https://github.com/example/leanbridge
+git clone https://github.com/drecland/leanbridge
 cd leanbridge
 pip install -e .
 ```
@@ -67,7 +67,7 @@ pip install leanbridge
 ```
 ou pour le développement (depuis la source) :
 ```bash
-git clone https://github.com/example/leanbridge
+git clone https://github.com/drecland/leanbridge
 cd leanbridge
 pip install -e .
 ```
