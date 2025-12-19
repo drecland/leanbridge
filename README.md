@@ -51,6 +51,7 @@ LeanBridge does not seek to replace Lean, but to **reduce entry friction**.
 - **Independence:** The package is independent of any other business logic (no LeanGraph here).
 - **Extensibility:** Everything is configurable via the `Registry`.
 
+See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for technique details.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 French:
